@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: FireStormBot
+Implementation-Version: 1.0
+Main-Class: com.sandvoxel.firestormbot.FireStormBot
+
