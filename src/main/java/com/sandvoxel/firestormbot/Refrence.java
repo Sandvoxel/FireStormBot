@@ -23,6 +23,11 @@ public class Refrence {
             "https://i.imgur.com/na6ss0K.jpg",
             "https://i.imgur.com/k495Tso.jpg",
             "https://i.redd.it/8hjwyohojlxz.png"};
+    public static final String[] ReinHart=
+            {"",
+            "",
+            "",
+            };
     public static final String[] Ecchi =
             {"http://i.imgur.com/waPnfdJ.png",
             "http://imgur.com/r/ecchi/8Mj6C",
